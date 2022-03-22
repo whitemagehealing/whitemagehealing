@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @whitemagehealing
-- 👀 I’m interested in Education, Music, Non-Allopathic and Allopathic Health, Games, Goverment Transparency.
+- 👀 I’m interested in Education, Music, Non-Allopathic and Allopathic Health, Games, Government Transparency.
 - 🌱 I’m currently learning Dart and Flutter.
 - 📫 How to reach me? My website is whitemagehealinggames.wordpress.com.
 
